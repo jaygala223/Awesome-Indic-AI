@@ -12,15 +12,20 @@ A curated collection of **awesome research papers, models, and datasets** in Ind
 
 | 🗓 Year | 📄 Title                          | 📜 Paper Link       | 💻 Code Repo       |
 |:-------:|:---------------------------------:|:-------------------:|:------------------:|
-| 2024    | Multilingual BERT for Indic NLP  | [View Paper](#)     | [GitHub](#)        |
-| 2023    | IndicBERT: A Transformer for 11 Indian Languages | [View Paper](#) | [GitHub](#) |
-| 2022    | Language Model for Sanskrit      | [View Paper](#)     | [GitHub](#)        |
+| 2023    | IndicBERT-MLM - A vanilla BERT style model trained on IndicCorp v2 with the MLM objective | - | [Hugging Face](https://huggingface.co/ai4bharat/IndicBERTv2-MLM-only) |
+| 2022    | Samanantar - TLM as an additional objective with Samanantar Parallel Corpus | [View Paper](#) | [Hugging Face](https://huggingface.co/ai4bharat/IndicBERTv2-MLM-Sam-TLM) |
+| 2023    | Back-Translation - TLM as an additional objective by translating the Indic parts of IndicCorp v2 dataset into English w/ IndicTrans model | - | [Hugging Face](https://huggingface.co/ai4bharat/IndicBERTv2-MLM-Back-TLM) |
+| 2023    | IndicBERT-SS - To encourage better lexical sharing among languages we convert the scripts from Indic languages to Devanagari and train a BERT style model with the MLM objective | - | [Hugging Face](https://huggingface.co/ai4bharat/IndicBERTv2-SS) |
+| 2023    | Indic-TTS - Towards Building Text-To-Speech Systems for the Next Billion Users | [View Paper](https://arxiv.org/abs/2209.12345) | [Bhashini](https://bhashini.gov.in/ulca/model/explore-models) |
+| 2023    | IndicTrans2 - The first open-source transformer-based multilingual NMT model that supports high-quality translations across all the 22 scheduled Indic languages | [View Paper](https://arxiv.org/abs/2305.16307) | [GitHub](https://github.com/AI4Bharat/IndicTrans2) |
+| 2024    | Airavata - A Hindi chat model instruction finetuned on SarvamAI's OpenHathi | [View Paper](https://arxiv.org/abs/2401.15006) | [Hugging Face](https://huggingface.co/ai4bharat/airavata) |
 
 ## 📦 Datasets  
 
 | 📂 Dataset Name       | 🌐 Languages Covered  | 📜 Description       | 📥 Download Link    | 📄 Paper Link       |
 |:---------------------:|:---------------------:|:--------------------:|:-------------------:|:-------------------:|
 | IndicCOPA             | 18 Indic Languages    | COPA test set in 18 languages | [Download](https://huggingface.co/datasets/ai4bharat/IndicCOPA) | - |
+| MILU                  | 11 Indic Languages    | Evaluation dataset for Large Language Models across 11 Indic languages. | [Download](https://huggingface.co/datasets/ai4bharat/MILU) | - |
 | IndicQA               | 11 Indic Languages    | Cloze-style reading comprehension dataset | [Download](https://huggingface.co/datasets/ai4bharat/IndicQA) | - |
 | IndicXParaphrase      | 10 Indic Languages    | Multilingual paraphrase detection dataset | [Download](https://huggingface.co/datasets/ai4bharat/IndicXParaphrase) | - |
 | IndicSentiment        | 13 Indic Languages    | Multilingual sentiment analysis dataset | [Download](https://huggingface.co/datasets/ai4bharat/IndicSentiment) | - |
@@ -28,6 +33,7 @@ A curated collection of **awesome research papers, models, and datasets** in Ind
 | Naamapadam            | 9 Indic Languages     | NER dataset with testsets | [Download](https://huggingface.co/datasets/ai4bharat/naamapadam) | [View Paper](https://arxiv.org/abs/2212.10168) |
 | MASSIVE               | 7 Indic Languages     | Intent classification and slot-filling dataset | [Download](https://github.com/alexa/massive#accessing-and-processing-the-data) | [View Paper](https://arxiv.org/abs/2204.08582) |
 | FLORES                | 18 Indic Languages    | Indic parts of the FLORES-101 dataset | [Download](https://huggingface.co/datasets/facebook/flores) | [View Paper](https://arxiv.org/abs/2207.04672) |
+| IndicCorp v2          | 24 Indic Languages    | Multilingual dataset for various NLP tasks | [Download](https://github.com/AI4Bharat/IndicBERT?tab=readme-ov-file#indiccorp-v2) | - |
 
 
 ## 🤝 Contributing  
