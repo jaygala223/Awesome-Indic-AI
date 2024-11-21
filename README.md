@@ -16,14 +16,18 @@ A curated collection of **awesome research papers, models, and datasets** in Ind
 | 2023    | IndicBERT: A Transformer for 11 Indian Languages | [View Paper](#) | [GitHub](#) |
 | 2022    | Language Model for Sanskrit      | [View Paper](#)     | [GitHub](#)        |
 
+## 📦 Datasets  
 
-## 📊 Datasets  
-
-| 📂 Dataset Name       | 🌐 Languages Covered  | 📜 Description       | 📥 Download Link    |
-|:---------------------:|:---------------------:|:--------------------:|:-------------------:|
-| IndicCorp             | 12 Indic Languages    | Large-scale corpora  | [Download](#)       |
-| IIT Bombay Hindi-English Corpus | Hindi, English | Parallel corpus for translation | [Download](#) |
-| Tamil Speech Dataset  | Tamil                 | Audio dataset for ASR | [Download](#)       |
+| 📂 Dataset Name       | 🌐 Languages Covered  | 📜 Description       | 📥 Download Link    | 📄 Paper Link       |
+|:---------------------:|:---------------------:|:--------------------:|:-------------------:|:-------------------:|
+| IndicCOPA             | 18 Indic Languages    | COPA test set in 18 languages | [Download](https://huggingface.co/datasets/ai4bharat/IndicCOPA) | - |
+| IndicQA               | 11 Indic Languages    | Cloze-style reading comprehension dataset | [Download](https://huggingface.co/datasets/ai4bharat/IndicQA) | - |
+| IndicXParaphrase      | 10 Indic Languages    | Multilingual paraphrase detection dataset | [Download](https://huggingface.co/datasets/ai4bharat/IndicXParaphrase) | - |
+| IndicSentiment        | 13 Indic Languages    | Multilingual sentiment analysis dataset | [Download](https://huggingface.co/datasets/ai4bharat/IndicSentiment) | - |
+| IndicXNLI             | 11 Indic Languages    | Translated XNLI dataset | [Download](https://huggingface.co/datasets/Divyanshu/indicxnli) | [View Paper](https://aclanthology.org/2022.emnlp-main.755/) |
+| Naamapadam            | 9 Indic Languages     | NER dataset with testsets | [Download](https://huggingface.co/datasets/ai4bharat/naamapadam) | [View Paper](https://arxiv.org/abs/2212.10168) |
+| MASSIVE               | 7 Indic Languages     | Intent classification and slot-filling dataset | [Download](https://github.com/alexa/massive#accessing-and-processing-the-data) | [View Paper](https://arxiv.org/abs/2204.08582) |
+| FLORES                | 18 Indic Languages    | Indic parts of the FLORES-101 dataset | [Download](https://huggingface.co/datasets/facebook/flores) | [View Paper](https://arxiv.org/abs/2207.04672) |
 
 
 ## 🤝 Contributing  
