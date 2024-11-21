@@ -2,10 +2,10 @@
 A curated collection of **awesome research papers, models, and datasets** in Indic languages. Contributions are welcome!
 
 ## 📚 Contents  
-- [Models](https://github.com/jaygala223/Awesome-Indic-AI/edit/master/README.md#-models)  
-- [Datasets](https://github.com/jaygala223/Awesome-Indic-AI/edit/master/README.md#-datasets)
-- [Contributing](https://github.com/jaygala223/Awesome-Indic-AI/edit/master/README.md#-contributing)
-- [Citation](https://github.com/jaygala223/Awesome-Indic-AI/edit/master/README.md#-citation)
+- [Models](#-models)  
+- [Datasets](#-datasets)
+- [Contributing](#-contributing)
+- [Citation](#️-citation)
 
 
 ## 🤖 Models  
