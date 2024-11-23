@@ -3,6 +3,7 @@ A curated collection of **awesome research papers, models, and datasets** in Ind
 
 ## 📚 Contents  
 - [Models](#-models)  
+- [Notable Research](#-notable-research)
 - [Datasets](#-datasets)
 - [Contributing](#-contributing)
 - [Citation](#️-citation)
@@ -19,6 +20,16 @@ A curated collection of **awesome research papers, models, and datasets** in Ind
 | 2023    | Indic-TTS - Towards Building Text-To-Speech Systems for the Next Billion Users | [View Paper](https://arxiv.org/abs/2209.12345) | [Bhashini](https://bhashini.gov.in/ulca/model/explore-models) |
 | 2023    | IndicTrans2 - The first open-source transformer-based multilingual NMT model that supports high-quality translations across all the 22 scheduled Indic languages | [View Paper](https://arxiv.org/abs/2305.16307) | [GitHub](https://github.com/AI4Bharat/IndicTrans2) |
 | 2024    | Airavata - A Hindi chat model instruction finetuned on SarvamAI's OpenHathi | [View Paper](https://arxiv.org/abs/2401.15006) | [Hugging Face](https://huggingface.co/ai4bharat/airavata) |
+| 2023    | Tamil Llama - A New Tamil Language Model Based on Llama 2 | [View Paper](https://arxiv.org/abs/2311.05845) | [GitHub](https://github.com/abhinand5/tamil-llama) |
+
+## 📦 Notable Research  
+
+| 🗓 Year | 📄 Title                          | 📜 Paper Link       | 💻 Code Repo       |
+|:-------:|:---------------------------------:|:-------------------:|:------------------:|
+| 2023    | Evaluating the Diversity, Equity, and Inclusion of NLP Technology: A Case Study for Indian Languages | [View Paper](https://aclanthology.org/2023.findings-eacl.131/) | - |
+| 2023    | Assessing Translation capabilities of Large Language Models involving English and Indian Languages | [View Paper](https://arxiv.org/abs/2311.09216) | - |
+| 2024    | RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models via Romanization | [View Paper](https://arxiv.org/abs/2401.14280) | [GitHub](https://github.com/AI4Bharat/romansetu) |
+| 2024    | Decoding the Diversity: A Review of the Indic AI Research Landscape | [View Paper](https://arxiv.org/abs/2406.09559) | - |
 
 ## 📦 Datasets  
 
@@ -34,6 +45,7 @@ A curated collection of **awesome research papers, models, and datasets** in Ind
 | MASSIVE               | 7 Indic Languages     | Intent classification and slot-filling dataset | [Download](https://github.com/alexa/massive#accessing-and-processing-the-data) | [View Paper](https://arxiv.org/abs/2204.08582) |
 | FLORES                | 18 Indic Languages    | Indic parts of the FLORES-101 dataset | [Download](https://huggingface.co/datasets/facebook/flores) | [View Paper](https://arxiv.org/abs/2207.04672) |
 | IndicCorp v2          | 24 Indic Languages    | Multilingual dataset for various NLP tasks | [Download](https://github.com/AI4Bharat/IndicBERT?tab=readme-ov-file#indiccorp-v2) | - |
+| Indic Instruct v0.1   | Hindi                 | Instruction dataset containing translated English instructions and native Hindi datasets (wikiHow and Anudesh) | [Download](https://huggingface.co/datasets/ai4bharat/indic-instruct-data-v0.1) | - |
 
 
 ## 🤝 Contributing  
