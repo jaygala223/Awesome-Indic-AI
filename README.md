@@ -30,6 +30,7 @@ A curated collection of **awesome research papers, models, and datasets** in Ind
 | 2023    | Assessing Translation capabilities of Large Language Models involving English and Indian Languages | [View Paper](https://arxiv.org/abs/2311.09216) | - |
 | 2024    | RomanSetu: Efficiently unlocking multilingual capabilities of Large Language Models via Romanization | [View Paper](https://arxiv.org/abs/2401.14280) | [GitHub](https://github.com/AI4Bharat/romansetu) |
 | 2024    | Decoding the Diversity: A Review of the Indic AI Research Landscape | [View Paper](https://arxiv.org/abs/2406.09559) | - |
+| 2024    | IndiText Boost: Text Augmentation for Low Resource India Languages | [View Paper](https://arxiv.org/abs/2401.13085) | - |
 
 ## 📦 Datasets  
 
